@@ -1,0 +1,9 @@
+User-Agent: *
+Disallow: /tilda/form*
+Disallow: /tilda/rec*
+Disallow: /tilda/click*
+Disallow: /tilda/scroll*
+Disallow: /tilda/popup*
+Disallow:
+Sitemap: http://history.06267.com.ua/sitemap.xml
+Host: history.06267.com.ua
